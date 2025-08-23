@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="anjingjagag2" size="1.000000 1.400000" />
+    <ImageTarget name="badakjawa2" size="1.000000 1.400000" />
+    <ImageTarget name="bangkairaksasa" size="1.000000 1.400000" />
+    <ImageTarget name="beruangmadu2" size="1.000000 1.400000" />
+    <ImageTarget name="cendrawasih" size="1.000000 1.400000" />
+    <ImageTarget name="kantongsemar" size="1.000000 1.400000" />
+    <ImageTarget name="komodo2" size="1.000000 1.400000" />
+    <ImageTarget name="raflessia" size="1.000000 1.400000" />
+    <ImageTarget name="rusabawean" size="1.000000 1.400000" />
+    <ImageTarget name="acungjangkung" size="1.000000 1.400000" />
+    <ImageTarget name="komodo" size="1.000000 1.400000" />
+    <ImageTarget name="beruangmadu" size="1.000000 1.400000" />
+    <ImageTarget name="badakjawa" size="1.000000 1.400000" />
+    <ImageTarget name="anjingajag" size="1.000000 1.400000" />
+    <ImageTarget name="taman-wisata-ujung-kulon" size="0.100000 0.066545" />
+    <ImageTarget name="download" size="0.100000 0.093855" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f5a2ddb1b207d4d4c9835738b902cc57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - welcomePanel: {fileID: 3613182339634798003, guid: a5ac56db7b3e8c34c9408535721a76bc, type: 3}
+  - tutorialPanel: {instanceID: 0}
+  - indexPanel: {instanceID: 0}
+  - buttonMulai: {instanceID: 0}
+  - buttonBeranda: {instanceID: 0}
+  - buttonProfile: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
