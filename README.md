@@ -131,17 +131,6 @@ Explorimba-AR-Project-APP/
 
 Eksplorimba is an academic prototype. The current project includes marker tracking, 3D model presentation, species information, model interaction, tutorial and navigation panels, quiz content, and audio feedback. The collection and EXP progression described in the game design are areas for further development.
 
-## Team
-
-Developed by **Group 5B**:
-
-- Muhammad Nefrit Mahardika
-- Gerald Christopher Andreas
-- Rafa Agustant
-- Muhamad Rumi Rifai
-- Muhammad Satria Dharma
-- Rio Irawan
-
 ## License
 
 This repository does not currently include an open-source license. Please contact the project maintainers before reusing the source code or project assets.
